@@ -4,7 +4,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/user-attachments/assets/93b9793f-6010-4820-b29f-67d62538b94e" alt="Logo" width="720" height="240">
   </a>
-  <h3 align="center">SonarQube + Docker + .NET Coree</h3>
+  <h3 align="center">SonarQube + Docker + .NET Core</h3>
   <p align="center">
     🚀 Análise de código com SonarQube + Docker + .NET Core em ambiente local
     <br />
